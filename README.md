@@ -1,5 +1,5 @@
 # Introduction
-An single view app that demostrates the usage of a [VLBCameraView][1]
+A single view app that demostrates the usage of a [VLBCameraView][1]
 
 # What is included
 
@@ -13,7 +13,7 @@ Open 'VLBCameraViewApp.xcworkspace' and run the VLBCameraViewApp target.
 
 TBD
 
-[1]: 
+[1]: https://github.com/qnoid/VLBCameraView 
 
 # Licence
 
