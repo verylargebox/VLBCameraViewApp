@@ -5,4 +5,4 @@ target :ApplicationTests do
  	  pod 'Kiwi', '~> 2.0.6'
 end
 
-pod 'VLBCameraView', :git => 'https://github.com/qnoid/libVLBCameraView.git'
+pod 'VLBCameraView', :git => 'https://github.com/qnoid/VLBCameraView.git'
